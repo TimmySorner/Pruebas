@@ -8,6 +8,7 @@ Descripción breve del repositorio. Aquí se encuentra el código fuente y la do
 - [Uso](#uso)
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
+![GitHub repo size](https://img.shields.io/github/repo-size/usuario/repositorio)
 
 ## Instalación
 
