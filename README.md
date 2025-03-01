@@ -1,32 +1,32 @@
-# Nombre del Repositorio
+# Reflexión sobre la clase de Backend I
 
-Descripción breve del repositorio. Aquí se encuentra el código fuente y la documentación del proyecto.
+## Conceptos de Java  
+En la sesión de hoy, reforzamos conceptos fundamentales de Java, tales como:  
+- **Constructores**  
+- **Clases**  
+- **Objetos**  
+- **Atributos**  
+- **Funciones y métodos**  
 
-## Tabla de Contenidos
+Este repaso me permitió comprender mejor la estructura y funcionamiento de estos elementos dentro del lenguaje.  
 
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
-![GitHub repo size](https://img.shields.io/github/repo-size/usuario/repositorio)
+## Git y GitHub  
+Aprendí la diferencia entre **Git y GitHub**, entendiendo que son herramientas distintas pero complementarias:  
+- **Git**: Sistema de gestión de versiones que permite llevar un control eficiente de los cambios en el código.  
+- **GitHub**: Plataforma que permite almacenar y gestionar repositorios de forma remota.  
 
-## Instalación
+## Administración de repositorios  
+Además, aprendimos a realizar diversas operaciones con repositorios, como:  
+1. **Crear un repositorio local con Git** y luego subirlo a GitHub.  
+2. **Crear un repositorio directamente en GitHub** y establecer la conexión con nuestra máquina local.  
+3. **Clonar un repositorio** para trabajar con un proyecto ya existente.  
+4. **Realizar commits de manera óptima**, asegurando un historial de cambios bien documentado.  
+5. **Documentar un proyecto con un `README.md` en formato Markdown**.  
+6. **Configurar la conexión entre un usuario local y un repositorio remoto en GitHub**, destacando la importancia de las cuentas para la gestión de commits.  
 
-Explica los pasos necesarios para instalar y configurar el entorno de desarrollo. Ejemplo:
+## Conclusión  
+Esta sesión me ayudó a afianzar conocimientos tanto en Java como en control de versiones, aspectos esenciales para el desarrollo backend.  
 
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/usuario/nombre-del-repositorio.git
-    ```
-2. Instalación de dependencias:
-    ```bash
-    npm install
-    ```
-3. Ejecuta la aplicación:
-    ```bash
-    npm start
-    ```
+---
 
-## Uso
-
-Proporciona ejemplos claros de cómo utilizar el proyecto. Puedes incluir fragmentos de código o capturas de pantalla.
+📌 *Este documento forma parte de mi proceso de aprendizaje en la materia Backend I.*
